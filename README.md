@@ -30,8 +30,13 @@
 
 ## [3. JavaScript](javascript.md)
 
+- ES6에서 추가된 기능에 대해 설명해주세요.
+- this 키워드와 dynamic binding에 대해서 설명해주세요.
+
 ## [4. React](react.md)
 
 ## [5. Network](network.md)
+
+- Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요.
 
 ## [6. Computer Science](network.md)
