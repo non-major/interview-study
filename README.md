@@ -26,6 +26,8 @@
 
 ## [1. Data Structure](data_structure.md)
 
+- Stack과 Queue의 차이점에 대해 설명해 주세요.
+
 ## [2. HTML/CSS](html_css.md)
 
 - CSS Box Model에 대해 설명해 주세요.
@@ -39,9 +41,11 @@
 ## [4. React](react.md)
 
 - Virtual DOM의 개념과 장점에 대해 설명해 주세요.
+- useMemo와 useCallback의 개념과 차이점을 설명해 주세요.
 
 ## [5. Network](network.md)
 
 - Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요.
+- HTTP와 HTTPS의 차이점이 무엇인지 설명해 주세요.
 
 ## [6. Computer Science](network.md)
