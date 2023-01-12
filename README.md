@@ -39,7 +39,6 @@
 - hoisting에 대해 설명해 주세요.
 - 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요.
 - 웹팩과 바벨은 무엇인가요?
-- CORS란? CORS 해결방법에 대해 설명해주세요.
 
 ## [4. React](react.md)
 
@@ -50,5 +49,6 @@
 
 - Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요.
 - HTTP와 HTTPS의 차이점이 무엇인지 설명해 주세요.
+- AJAX에 대해 설명하세요.
 
 ## [6. Computer Science](network.md)
