@@ -30,25 +30,29 @@
 
 ## [2. HTML/CSS](html_css.md)
 
-- CSS Box Model에 대해 설명해 주세요.
+- [x] CSS Box Model에 대해 설명해 주세요.
+- [ ] 시멘틱 마크업이란 무엇인지 설명해주세요.
 
 ## [3. JavaScript](javascript.md)
 
-- ES6에서 추가된 기능에 대해 설명해주세요.
-- this 키워드와 dynamic binding에 대해서 설명해주세요.
-- hoisting에 대해 설명해 주세요.
-- 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요.
-- 웹팩과 바벨은 무엇인가요?
+- [x] ES6에서 추가된 기능에 대해 설명해주세요.
+- [x] this 키워드와 dynamic binding에 대해서 설명해주세요.
+- [x] hoisting에 대해 설명해 주세요.
+- [x] 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요.
+- [x] 웹팩과 바벨은 무엇인가요?
+- [ ] 이벤트루프란 무엇인지 설명해주세요.
 
 ## [4. React](react.md)
 
-- Virtual DOM의 개념과 장점에 대해 설명해 주세요.
-- useMemo와 useCallback의 개념과 차이점을 설명해 주세요.
+- [x] Virtual DOM의 개념과 장점에 대해 설명해 주세요.
+- [x] useMemo와 useCallback의 개념과 차이점을 설명해 주세요.
 
 ## [5. Network](network.md)
 
-- Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요.
-- HTTP와 HTTPS의 차이점이 무엇인지 설명해 주세요.
-- AJAX에 대해 설명하세요.
+- [x] Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요.
+- [x] HTTP와 HTTPS의 차이점이 무엇인지 설명해 주세요.
+- [x] AJAX에 대해 설명하세요.
 
 ## [6. Computer Science](network.md)
+
+- [ ] REST API가 무엇인지 설명해주세요.
