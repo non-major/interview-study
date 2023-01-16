@@ -26,7 +26,7 @@
 
 ## [1. Data Structure](data_structure.md)
 
-- Stack과 Queue의 차이점에 대해 설명해 주세요.
+- [x] Stack과 Queue의 차이점에 대해 설명해 주세요.
 
 ## [2. HTML/CSS](html_css.md)
 
