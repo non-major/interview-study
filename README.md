@@ -30,7 +30,7 @@
 
 ## [2. HTML/CSS](html_css.md)
 
-- [x] CSS Box Model에 대해 설명해 주세요.
+- [x] CSS Box Model에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/7337a4b1745578ddc4b5804b1ebbc3cb6ac44f2c/%EB%A9%B4%EC%A0%91%EB%8B%B5%EB%B3%80.md)
 - [ ] 시멘틱 마크업이란 무엇인지 설명해주세요.
 - [ ]  Flex 속성을 사용하는 이유에 대해 설명해주세요.
 
@@ -38,7 +38,7 @@
 
 - [x] ES6에서 추가된 기능에 대해 설명해주세요.
 - [x] this 키워드와 dynamic binding에 대해서 설명해주세요.
-- [x] hoisting에 대해 설명해 주세요.
+- [x] hoisting에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/7337a4b1745578ddc4b5804b1ebbc3cb6ac44f2c/%EB%A9%B4%EC%A0%91%EB%8B%B5%EB%B3%80.md)
 - [x] 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요.
 - [x] 웹팩과 바벨은 무엇인가요?
 - [ ] 이벤트루프란 무엇인지 설명해주세요.
@@ -48,7 +48,7 @@
 
 ## [4. React](react.md)
 
-- [x] Virtual DOM의 개념과 장점에 대해 설명해 주세요.
+- [x] Virtual DOM의 개념과 장점에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/7337a4b1745578ddc4b5804b1ebbc3cb6ac44f2c/%EB%A9%B4%EC%A0%91%EB%8B%B5%EB%B3%80.md)
 - [x] useMemo와 useCallback의 개념과 차이점을 설명해 주세요.
 - [ ] props와 state에 대해 설명해주세요.
 - [ ] 클래스형 컴포넌트와 함수형 컴포넌트를 비교해주세요.
