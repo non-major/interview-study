@@ -31,7 +31,7 @@
 ## [2. HTML/CSS](html_css.md)
 
 - [x] CSS Box Model에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
-- [ ] 시멘틱 마크업이란 무엇인지 설명해주세요.
+- [x] 시멘틱 마크업이란 무엇인지 설명해주세요.
 - [x] Flex 속성을 사용하는 이유에 대해 설명해주세요.
 
 ## [3. JavaScript](javascript.md)
@@ -41,7 +41,7 @@
 - [x] hoisting에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
 - [x] 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230116.md)
 - [x] 웹팩과 바벨은 무엇인가요? [>>](https://github.com/non-major/interview-study/blob/dihoon/230116.md)
-- [ ] 이벤트루프란 무엇인지 설명해주세요.
+- [x] 이벤트루프란 무엇인지 설명해주세요.
 - [x] 객체지향 프로그래밍의 특징에 대해 설명해주세요.
 - [x] 콜백함수에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] 이벤트 버블링에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
@@ -62,6 +62,6 @@
 
 ## [6. Computer Science](network.md)
 
-- [ ] REST API가 무엇인지 설명해주세요.
+- [x] REST API가 무엇인지 설명해주세요.
 - [x] TDD에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] SessionStorage, LocalStorage, Cookie에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
