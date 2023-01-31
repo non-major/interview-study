@@ -33,6 +33,7 @@
 - [x] CSS Box Model에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
 - [x] 시멘틱 마크업이란 무엇인지 설명해주세요.
 - [x] Flex 속성을 사용하는 이유에 대해 설명해주세요.
+- [] 크로스 브라우징에 대해 설명해주세요.
 
 ## [3. JavaScript](javascript.md)
 
@@ -65,3 +66,4 @@
 - [x] REST API가 무엇인지 설명해주세요.
 - [x] TDD에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] SessionStorage, LocalStorage, Cookie에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
+- [] 캐시(Cache)에 대해 설명해주세요.
