@@ -47,6 +47,7 @@
 - [x] 콜백함수에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] 이벤트 버블링에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
 - [ ] SPA와 MPA의 차이를 설명해 주세요.
+- [ ] 이벤트 바인딩에 대해 설명해 주세요.
 
 ## [4. React](react.md)
 
@@ -70,3 +71,4 @@
 - [ ] 캐시(Cache)에 대해 설명해주세요.
 - [ ] 라이브러리와 프레임워크에 대해 설명해주세요.
 - [ ] MVC와 MVVM 패턴의 차이를 설명해주세요.
+- [ ] 동기, 비동기, 블로킹, 논블로킹에 대해 설명해주세요.
