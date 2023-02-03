@@ -33,7 +33,7 @@
 - [x] CSS Box Model에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
 - [x] 시멘틱 마크업이란 무엇인지 설명해주세요.
 - [x] Flex 속성을 사용하는 이유에 대해 설명해주세요.
-- [] 크로스 브라우징에 대해 설명해주세요.
+- [ ] 크로스 브라우징에 대해 설명해주세요.
 
 ## [3. JavaScript](javascript.md)
 
@@ -46,6 +46,7 @@
 - [x] 객체지향 프로그래밍의 특징에 대해 설명해주세요.
 - [x] 콜백함수에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] 이벤트 버블링에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
+- [ ] SPA와 MPA의 차이를 설명해 주세요.
 
 ## [4. React](react.md)
 
@@ -66,4 +67,6 @@
 - [x] REST API가 무엇인지 설명해주세요.
 - [x] TDD에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] SessionStorage, LocalStorage, Cookie에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
-- [] 캐시(Cache)에 대해 설명해주세요.
+- [ ] 캐시(Cache)에 대해 설명해주세요.
+- [ ] 라이브러리와 프레임워크에 대해 설명해주세요.
+- [ ] MVC와 MVVM 패턴의 차이를 설명해주세요.
