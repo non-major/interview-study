@@ -69,6 +69,5 @@
 - [x] TDD에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - [x] SessionStorage, LocalStorage, Cookie에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
 - [ ] 캐시(Cache)에 대해 설명해주세요.
-- [ ] 라이브러리와 프레임워크에 대해 설명해주세요.
 - [ ] MVC와 MVVM 패턴의 차이를 설명해주세요.
 - [ ] 동기, 비동기, 블로킹, 논블로킹에 대해 설명해주세요.
