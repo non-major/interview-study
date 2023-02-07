@@ -8,3 +8,5 @@
 - REST API란 [rest_api](rest_api.md)
 - 시멘틱 마크업이란 [semantic](semantic.md)
 - EventLoop란 [eventloop](eventloop.md)
+- SPA와 MPA의 차이점 [spa_mpa](spa_mpa.md)
+- MVC와 MVVM 패턴의 차이점 [mvc_mvvm](mvc_mvvm.md)
