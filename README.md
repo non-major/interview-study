@@ -33,12 +33,12 @@
 - CSS Box Model에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
 - 시멘틱 마크업이란 무엇인지 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/seoljiyoon/semantic.md)
 - Flex 속성을 사용하는 이유에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
-- 크로스 브라우징에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- 크로스 브라우징에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/230207%20answer.md)
 
 ## [3. JavaScript](javascript.md)
 
-- ES6에서 추가된 기능에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
-- this 키워드와 dynamic binding에 대해서 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- ES6에서 추가된 기능에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220116%20answer.md)
+- this 키워드와 dynamic binding에 대해서 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220116%20answer.md)
 - hoisting에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230116.md)
 - 클로저는 무엇인가요? 원리와 왜 사용하는지 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230116.md)
 - 웹팩과 바벨은 무엇인가요? [>>](https://github.com/non-major/interview-study/blob/dihoon/230116.md)
@@ -47,7 +47,7 @@
 - 콜백함수에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - 이벤트 버블링에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
 - SPA와 MPA의 차이를 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/seoljiyoon/spa_mpa.md)
-- 이벤트 바인딩에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- 이벤트 바인딩에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/d0b00df7fb3aada645832cf542f111576ea8b9ac/230207.md)
 
 ## [4. React](react.md)
 
@@ -59,7 +59,7 @@
 
 ## [5. Network](network.md)
 
-- Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- Cross-Origin Resource Sharing(CORS)란 무엇이며, 필요한 이유는 무엇인지 설명하세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220116%20answer.md)
 - HTTP와 HTTPS의 차이점이 무엇인지 설명해 주세요.[>>](https://github.com/non-major/interview-study/blob/seoljiyoon/http_https.md)
 - AJAX에 대해 설명하세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230116.md)
 
@@ -68,6 +68,6 @@
 - REST API가 무엇인지 설명해주세요.[>>](https://github.com/non-major/interview-study/blob/seoljiyoon/rest_api.md)
 - TDD에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/dihoon/230126.md)
 - SessionStorage, LocalStorage, Cookie에 대해 설명해 주세요. [>>](https://github.com/non-major/interview-study/blob/jiyunKim/230126.md)
-- 캐시(Cache)에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- 캐시(Cache)에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/230207%20answer.md)
 - MVC와 MVVM 패턴의 차이를 설명해주세요.[>>](https://github.com/non-major/interview-study/blob/seoljiyoon/mvc_mvvm.md)
-- 동기, 비동기, 블로킹, 논블로킹에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/b18fda133dad8bfcebe21f9fa7a2b4b0af0e55ae/220125%20answer.md)
+- 동기, 비동기, 블로킹, 논블로킹에 대해 설명해주세요. [>>](https://github.com/non-major/interview-study/blob/d0b00df7fb3aada645832cf542f111576ea8b9ac/230207.md)
